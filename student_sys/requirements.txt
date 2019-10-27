@@ -1,0 +1,8 @@
+Django==1.11
+django-autocomplete-light==3.4.1
+django-ckeditor==5.7.1
+django-crispy-forms==1.8.0
+django-formtools==2.1
+django-js-asset==1.2.2
+djangorestframework==3.10.3
+Fabric3==1.14.post1
